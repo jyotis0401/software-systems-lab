@@ -13,17 +13,7 @@ Date: 26th Aug, 2024.
 #include<stdlib.h>
 #include<unistd.h>
 #include<fcntl.h>
-/*int main(int argc, char *argv[], char * envp[]){
 
-    int i;
-    for (i = 0; envp[i] != NULL; i++)
-        printf("\n%s", envp[i]);
-    getchar();
-    return 0;
-
-    return 0;
-}
-*/
 
 #include <unistd.h>
 #include <stdio.h>
